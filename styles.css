@@ -1,0 +1,19 @@
+
+.nav{
+    padding: 1rem;
+    background-color: brown;
+    color: aliceblue;
+}
+ul{
+    list-style: none;
+    margin: 0;
+}
+li{
+    padding: 0.5rem 1.5rem;
+    margin-right: 1.5rem;
+    display:inline-block;
+}
+.img{
+    display: grid;
+    width:15%;
+}
